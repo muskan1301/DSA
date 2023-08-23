@@ -7,11 +7,10 @@ public:
             int first = nums[i];
             int second = target-first;
             if(mpp.find(second)!=mpp.end()){
-                ans.push_back(i);
-                ans.push_back(mpp[second]);
+                return {mpp[second],i};
             }
             mpp[first] = i;
         }
-        return ans;
+        return {-1,-1};
     }
 };
