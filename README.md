@@ -6,5 +6,6 @@ This repository contains my solutions to various GeeksforGeeks and Leetcode DSA 
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/muskan1301/DSA/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/muskan1301/DSA/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
